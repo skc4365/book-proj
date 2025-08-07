@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://skc4365.github.io/s04_react/",
+  "homepage": "https://skc4365.github.io/book-proj/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
